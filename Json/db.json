@@ -1,0 +1,36 @@
+{
+    "products":[
+        {
+            "id":1,
+            "productName":"un",
+            "price":12
+        },
+        {
+            "id":2,
+            "productName":"yag",
+            "price":6
+        },
+        {
+            "id":3,
+            "productName":"sud",
+            "price":17
+        },
+        {
+            "id":4,
+            "productName":"pendir",
+            "price":13
+        }
+    ],
+    "basket":[
+        {
+            "id":1,
+            "userID":1,
+            "data":[]
+        },
+        {
+            "id":2,
+            "userID":2,
+            "data":[]
+        }
+    ]
+}
